@@ -134,5 +134,6 @@ public class Main {
         }
     }
 }
-
-//ADDED QUIZ  1
+//delete later
+//compare to adjacent values
+//traversing left to right
