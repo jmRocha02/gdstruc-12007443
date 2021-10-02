@@ -1,2 +1,14 @@
-package com.miguelrocha;public class Card {
+package com.miguelrocha;
+
+public class Card {
+    private String name;
+
+    public Card(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+
 }
